@@ -1,3 +1,7 @@
+/*
+Alura Course
+*/
+
 let listaNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAletorio();
