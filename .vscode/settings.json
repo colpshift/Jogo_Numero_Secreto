@@ -1,4 +1,45 @@
 {
-    "liveServer.settings.port": 5501,
-    "editor.fontSize": 14
+  "liveServer.settings.port": 5501,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "file-icons",
+  "playwright.reuseBrowser": false,
+  "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+  "workbench.productIconTheme": "fluent-icons",
+  "editor.fontFamily": "JetBrainsMono NF Medium",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "workbench.startupEditor": "none",
+  "git.confirmSync": false,
+  "terminal.integrated.env.windows": {},
+  "editor.linkedEditing": true,
+  "now.instance.authentication.type": "Basic",
+  "now.instance.host.url": "dev170626.service-now.com",
+  "now.instance.user.name": "admin",
+  "now.instance.user.password": "^ySg9Pf1X%sI",
+  "vscode-edge-devtools.webhint": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.fontSize": 16,
+  "editor.codeActionsOnSave": {},
+  "editor.guides.bracketPairs": true,
+  "json.schemas": []
 }
